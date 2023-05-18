@@ -15,9 +15,10 @@ def prgm_available(program_name):
 # directories = pathdirs.split(';')
 
 # print(directories)
+program_name = input("please enter program name as input")
 
 
-if prgm_available('efficiency.txt'):
+if prgm_available(program_name):
     print("program is available")
 else:
     print("program is not available")
