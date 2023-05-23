@@ -34,7 +34,7 @@ def cmldict(argv, cmlargs=None, check_validity=False):
 
 # Sample usage
 
-# Define default parameters
+# Define default parameters these values  were given in simviz1.py in chapter 1
 default_params = {
     'm': 1.0,
     'b': 0.7,
