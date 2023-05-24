@@ -1,0 +1,6 @@
+variable1 '''>value1
+variable2 : value2
+solution strategy = implicit
+variable3:xyz
+my name = Dhanush
+var = 
