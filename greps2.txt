@@ -1,0 +1,5 @@
+Another text file for testing the code
+no match in this file
+this line also contains the word 'pattern'
+pattern can be found any where and any line 
+end of this file

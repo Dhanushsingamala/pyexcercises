@@ -1,0 +1,5 @@
+This is a sample file
+cotains multiple lines 
+this line has the word 'pattern'
+this line has the word 'match'
+end of this file

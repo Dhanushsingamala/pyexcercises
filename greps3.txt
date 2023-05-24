@@ -1,0 +1,6 @@
+this is the 3rd sample txt file 
+this line may or may not match with the pattern 
+here we can also have information in not txt format
+variable = 'pattern'
+match = 'pattern'
+end of this file
